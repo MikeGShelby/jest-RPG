@@ -1,1 +1,1 @@
-# jist-RPG
+# Jest RPG
